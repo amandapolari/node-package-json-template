@@ -1,0 +1,22 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "-   [1. Prática 1](#prática-1)\r -   [2. Prática 2](#prática-2)\r -   [3. Prática 3](#prática-3)",
+  "main": "countries.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandapolari/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandapolari/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/amandapolari/node-package-json-template#readme"
+}
